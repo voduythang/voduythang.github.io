@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a wander developer in Vietnamese is "Code dạo"!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Call me maybe!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[voduythang@gmail.com](mailto:voduythang@gmail.com)
+LinkedIn: https://www.linkedin.com/in/voduythang/
